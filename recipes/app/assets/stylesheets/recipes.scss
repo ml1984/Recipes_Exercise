@@ -28,8 +28,12 @@ h1, h2, h3, p {
   margin: auto;
 }
 #recipe_image {
+  display: inline-block;
+  align-items:center;
+  position:center;
   border-radius: 50px;
   background-color: orange;
   padding: 100px;
+
 
 }
